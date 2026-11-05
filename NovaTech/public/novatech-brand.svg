@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="128" viewBox="0 0 460 128" role="img" aria-label="NovaTech">
+  <defs>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FB923C"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="38" fill="url(#orange)"/>
+  <path d="M36 72c0-22 18-39 43-41-1 24-12 40-31 45" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M42 96c15-22 30-34 50-42M67 94h27V73" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="94" cy="50" r="7" fill="#FFEDD5"/>
+  <text x="151" y="77" font-family="Manrope,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="-2" fill="#172033">Nova<tspan fill="#C2410C">Tech</tspan></text>
+  <text x="154" y="105" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.3" fill="#718096">DESCARTE INTELIGENTE · FUTURO SUSTENTÁVEL</text>
+</svg>
